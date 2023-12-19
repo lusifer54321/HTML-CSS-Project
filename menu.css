@@ -1,0 +1,28 @@
+h1{
+    color: tomato;
+    font-size: 60px;
+    text-shadow: 2px 2px 6px grey;
+}
+img{
+    box-shadow: 2px 3px 8px grey;
+}
+b{
+    text-align: left;
+    text-shadow: 2px 3px 8px grey;
+    color: red;
+    font-size: 40px;
+}
+p{
+    color: blue;
+    font-size: 25px;
+    text-shadow: 2px 2px 5px grey;
+}
+button{
+    color: brown;
+    border: 2px solid grey;
+    height: 40px;
+    width: 80px;
+}
+body{
+    background-image: linear-gradient(lightgrey,bisque,lightgreen);
+}
